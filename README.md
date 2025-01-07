@@ -1,0 +1,1 @@
+This repository contains a Perl script demonstrating an issue that arises when using the 'eq' operator with an undefined variable.  The 'bug.pl' file shows the erroneous code.  The 'bugSolution.pl' file provides a corrected version and explains how to avoid this error.  Always check for defined values before using comparison operators to prevent unexpected results and warnings.
